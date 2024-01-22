@@ -1,0 +1,6 @@
+[submodule "rconpp"]
+	path = rconpp
+	url = https://github.com/Jaskowicz1/rconpp.git
+[submodule "RCONClientCross/RCONClientCross/rconpp"]
+	path = RCONClientCross/RCONClientCross/rconpp
+	url = https://github.com/Jaskowicz1/rconpp.git

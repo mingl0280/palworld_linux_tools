@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\VS2017\C++\RCONClientCross\RCONClientCross\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\VS2017\C++\RCONClientCross\RCONClientCross\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74A70AB5-8A9F-37D3-AA66-524003EC26D2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

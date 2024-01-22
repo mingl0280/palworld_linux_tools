@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+E:/Program Files/CMake/share/cmake-3.20/Modules/CPack.cmake
+E:/Program Files/CMake/share/cmake-3.20/Modules/CPackComponent.cmake
+E:/Program Files/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+E:/Program Files/CMake/share/cmake-3.20/Templates/CPackConfig.cmake.in
+H:/VS2017/C++/RCONClientCross/RCONClientCross/rconpp/CMakeLists.txt
+H:/VS2017/C++/RCONClientCross/RCONClientCross/rconpp/cmake/CPackSetup.cmake
